@@ -29,3 +29,4 @@ Finalmente, vas a tener que ejecutar los tests nuevamente en el entorno completo
 Recordá, el objetivo de este ejercicio es aprender. Si tenés alguna duda, no dudes en consultar en el canal de Discord. No te quedes atrapado en un problema, siempre estamos acá para ayudar.
 
 Para mas documentacion acerca de como trabajar con este template, es posible chequear el [Substrate node template](https://github.com/substrate-developer-hub/substrate-node-template)
+
